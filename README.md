@@ -21,4 +21,4 @@ Ideas Marketplace is an auction management system of ideas. There are 3 roles ad
 ![creator_dashboard](/screenshots/creator_dashboard.JPG)
 
 <br><h3>Rating and questions as investor:</h3>
-![rating_questions](/screenshots/rating_questions.JP
+![rating_questions](/screenshots/rating_questions.JPG)
